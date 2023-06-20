@@ -1,0 +1,12 @@
+body{
+    background-image: url("fff.jpg");
+}
+
+body>header>h1{
+    text-align:bottom right;
+    padding-top: 1em;
+    color:rgb(251, 250, 250);
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+ }
+
